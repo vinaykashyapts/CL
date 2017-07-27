@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ln">
+        <item>@string/en</item>
+        <item>@string/as</item>
+        <item>@string/bn</item>
+        <item>@string/gu</item>
+        <item>@string/hi</item>
+        <item>@string/kn</item>
+        <item>@string/mr</item>
+        <item>@string/my</item>
+        <item>@string/or</item>
+        <item>@string/pa</item>
+        <item>@string/pt</item>
+        <item>@string/zh</item>
+    </string-array>
+
+    <string name="en" translatable="false">en</string>
+    <string name="as" translatable="false">as</string>
+    <string name="bn" translatable="false">bn</string>
+    <string name="gu" translatable="false">gu</string>
+    <string name="hi" translatable="false">hi</string>
+    <string name="kn" translatable="false">kn</string>
+    <string name="mr" translatable="false">mr</string>
+    <string name="my" translatable="false">my</string>
+    <string name="or" translatable="false">or</string>
+    <string name="pa" translatable="false">pa</string>
+    <string name="pt" translatable="false">pt</string>
+    <string name="zh" translatable="false">zh</string>
+</resources>

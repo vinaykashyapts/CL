@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ସି ଲ ଲଙ୍ଗୁଆଗେ ଟ୍ରାନ୍ସଲେସନ</string>
+    <string name="helloWorld">ହେଲଲ ବୋରଲଦ!</string>
+    <string name="changeLanguage">ଚାଙ୍ଗ ଲଙ୍ଗୁଆଗେ</string>
+
+    <string name="quote1">“ଥେ ପବେର ଅ ଈମାଗିଣସନ ମାକେଶ ଉତ୍ସ ଇନଫିନିଟିଏ.” » ଜହ୍ନ ମୁଈର</string>
+    <string name="quote2">“ଇଂ ଟିଚିଙ୍ଗ ଓଠେର୍ସ ବେ ଟେଂଟ କୋୖର୍ସେଲବେଶ୍ୱ.” » ଅନନ୍ୟମଷ</string>
+    <string name="quote3">“ହୋପେ ଇସଃ ଏ ବାକିଙ୍ଗ ଦ୍ଵରାମ.” » ଅରିଷ୍ଟତଳେ</string>
+    <string name="quote4">“ଅଂ ଅବସ୍ଥାକଲେ ଇସଃ ଅତେନ ଏ ଷ୍ଟେପିପିଙ୍ଗ ସ୍ତନେ.” » ପ୍ରେଷକତତ୍ୱ ବୁଶ</string>
+    <string name="quote5">“ଆକ୍ସନ ଇସଃ ଥେ ଫୋୖଣ୍ଡସନାଲ କେୟ ତୋ ଳ ସୁସିସିଏସସ.” » ପବଳ ପିସିଏସସ</string>
+    <string name="quote6">“ଇଫ ଯୋଉ ଦ୍ଵରାମ ଇଟା, ଯୋଉ ଚାଁ ଦୋ ଇଟା.” » ବାଲଟ ଡିସନଇୟା</string>
+    <string name="quote7">“ଲେଆରଁ ଫାର୍ମ ଏଷ୍ଟେର୍ଦ୍ୟ, ଲିବେ ଫୋର ତାଡେ଼, ହୋପେ ଫୋର ତୋମରରବ.” » ଅନନ୍ୟମଷ</string>
+    <string name="quote8">“ଏ ଯୁଗ ଫାଇଲଲସ ଦର୍ପ ବ୍ୟ ଦର୍ପ.” » ବୁଦ୍ଧ</string>
+    <string name="quote9">“ଇଫ ନୋଟ ଉତ୍ସ, ଭୋ? ଇଫ ନୋଟ ନବ, ଭେଁ?” » ଜହ୍ନ ଫଁ. କେଂନେଡି</string>
+    <string name="quote10">“ଇ ଚାଁ, ଥେରଫୋରେ ଇ ଆମ.” » ସିମନେ ୱେଇଲ</string>
+
+</resources>

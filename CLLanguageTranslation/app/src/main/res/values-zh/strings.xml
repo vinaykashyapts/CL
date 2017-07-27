@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">C语言翻译</string>
+    <string name="helloWorld">你好，世界！</string>
+    <string name="changeLanguage">改变语言</string>
+
+    <string name="quote1">“想象的力量使我们无限。” John Muir</string>
+    <string name="quote2">“在教别人时，我们自己教”</string>
+    <string name="quote3">“希望是一个醒来的梦想。”» 亚里士多德</string>
+    <string name="quote4">“障碍常常是踏脚石。”» 普雷斯科特·布什</string>
+    <string name="quote5">“行动是所有成功的基础。”Pablo Picasso</string>
+    <string name="quote6">“如果你梦想，你可以做到。”» 华特迪士尼</string>
+    <string name="quote7">“从昨天学习，活在今天，希望明天。”» 匿名</string>
+    <string name="quote8">“一个水壶一滴一滴地填满。”» 佛陀</string>
+    <string name="quote9">“如果不是我们，谁呢？如果不是现在，什么时候？“» 约翰·肯尼迪</string>
+    <string name="quote10">“我可以，所以我是。”» Simone Weil</string>
+
+</resources>

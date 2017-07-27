@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">সি এল ভাষা অনুবাদ</string>
+    <string name="helloWorld">ওহে বিশ্ব!</string>
+    <string name="changeLanguage">ভাষা পরিবর্তন করুন</string>
+
+    <string name="quote1">"কল্পনা শক্তি আমাদের অসীম করে তোলে।" »জন মুর</string>
+    <string name="quote2">"অন্যদের শেখানো আমরা নিজেদেরকে শেখান।" »বেনামী</string>
+    <string name="quote3">"আশা একটি জাগ্রত স্বপ্ন।" » অ্যারিস্টট্ল</string>
+    <string name="quote4">"একটি বাধা প্রায়ই একটি পদবিন্যাস পাথর।" » বুশ</string>
+    <string name="quote5">"কর্ম সব সাফল্যের মূল বিষয়।" »পবলো পিকাসো</string>
+    <string name="quote6">"আপনি এটি স্বপ্ন যদি, আপনি এটি করতে পারেন।" »ওয়াল্ট ডিজনি</string>
+    <string name="quote7">"গতকাল থেকে শিখুন, আজকের জন্য বাস, আগামীকাল জন্য আশা।" »বেনামী</string>
+    <string name="quote8">"একটি জুজ ড্রপ দ্বারা ড্রপ পূরণ।" »বুদ্ধ</string>
+    <string name="quote9">"না হলে আমাদের কে? এখন যদি না, তাহলে? "» জন এফ কেনেডি</string>
+    <string name="quote10">"আমি, তাই আমি হতে পারে।" »সিমোন ওয়েইল</string>
+
+</resources>

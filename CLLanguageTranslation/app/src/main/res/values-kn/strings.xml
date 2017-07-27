@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ಸಿಎಲ್ ಭಾಷಾ ಅನುವಾದ</string>
+    <string name="helloWorld">ಹಲೋ ವರ್ಲ್ಡ್!</string>
+    <string name="changeLanguage">ಸೆಟ್ಟಿಂಗ್ಗಳು</string>
+
+    <string name="quote1">"ಕಲ್ಪನೆಯ ಶಕ್ತಿಯು ನಮಗೆ ಅಪರಿಮಿತವಾಗಿದೆ." » ಜಾನ್ ಮುಯಿರ್</string>
+    <string name="quote2">"ಇತರರಿಗೆ ಬೋಧಿಸುವಲ್ಲಿ ನಾವೇ ಕಲಿಸುತ್ತೇವೆ." » ಅನಾಮಧೇಯ</string>
+    <string name="quote3">"ಹೋಪ್ ಒಂದು ಎಚ್ಚರವಾದ ಕನಸು." » ಅರಿಸ್ಟಾಟಲ್</string>
+    <string name="quote4">"ಒಂದು ಅಡಚಣೆಯಾಗಿದೆ ಸಾಮಾನ್ಯವಾಗಿ ಒಂದು ಮೆಟ್ಟಿಲು ಕಲ್ಲು." » ಪ್ರೆಸ್ಕಾಟ್ ಬುಷ್</string>
+    <string name="quote5">"ಆಕ್ಷನ್ ಎಲ್ಲಾ ಯಶಸ್ಸಿಗೆ ಮೂಲಭೂತ ಕೀಲಿಯಾಗಿದೆ." » ಪ್ಯಾಬ್ಲೋ ಪಿಕಾಸೊ</string>
+    <string name="quote6">"ನೀವು ಅದನ್ನು ಕನಸು ಮಾಡಿದರೆ, ನೀವು ಇದನ್ನು ಮಾಡಬಹುದು." » ವಾಲ್ಟ್ ಡಿಸ್ನಿ</string>
+    <string name="quote7">"ನಿನ್ನೆಯಿಂದ ಕಲಿಯಿರಿ ಈದಿನ ಬಾಳಿರಿ ನಾಳೆಯ ಬಗ್ಗೆ ವಿಶ್ವಾಸದಿಂದಿರಿ." » ಅನಾಮಧೇಯ</string>
+    <string name="quote8">"ಎ ಜಗ್ ಡ್ರಾಪ್ ಡ್ರಾಪ್ ಡ್ರಾಪ್ ಡ್ರಾಪ್." » ಬುದ್ಧ</string>
+    <string name="quote9">"ನಮ್ಮಲ್ಲದಿದ್ದರೆ, ಯಾರು? ಇಲ್ಲದಿದ್ದರೆ, ಯಾವಾಗ? "» ಜಾನ್ ಎಫ್. ಕೆನಡಿ</string>
+    <string name="quote10">"ನಾನು ಮಾಡಬಹುದು, ಆದ್ದರಿಂದ ನಾನು." » ಸಿಮೋನ್ ವೇಲ್</string>
+</resources>

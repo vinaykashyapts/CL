@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">সিল ল্যাঙ্গুয়েজে ট্রান্সলেশন</string>
+    <string name="helloWorld">হ্যালো ওয়ার্ল্ড!</string>
+    <string name="changeLanguage">চেঞ্জ ল্যাঙ্গুয়েজে</string>
+
+    <string name="quote1">“টি পাওয়ার অফ ইমাজিনেশন মাকেস উস ইনফাইনাইট.” » জন মুইর</string>
+    <string name="quote2">“ইন টিচিং ওঠেরস ওই টাচ ঔরসেলভেস.” » অ্যানোনিমাস</string>
+    <string name="quote3">“হোপ ২ এ বাকিং ড্রিম.” » অ্যারিস্টট্ল</string>
+    <string name="quote4">“যান অবস্থাকে ২ অফটন এ স্টেপঃপিং  স্টোন.” » প্রেস্কট বুশ</string>
+    <string name="quote5">“অ্যাকশন ২ টি ফাউন্ডেশনাল কীয় তো অল সাকসেস.” » পাবলো পিকাসো</string>
+    <string name="quote6">“ইফ ইউ ড্রিম ইট, ইউ ক্যান ড ইট.” » বলত দিসনি</string>
+    <string name="quote7">“লেয়ারন ফ্রম য়েস্টারদায়, লাইভ ফর টুডে, হোপ ফর তোমোররাও.” » অ্যানোনিমাস</string>
+    <string name="quote8">“এ জগ ফিলস ড্রপ বই ড্রপ.” » বুদ্ধ</string>
+    <string name="quote9">“ইফ নোট উস, ওহ? ইফ নোট নাউ, হোয়েন?” » জন ফ. কেনেডি</string>
+    <string name="quote10">“ই ক্যান, থেরেফরে ই আমি.” » সিমোনে বেইল</string>
+
+</resources>

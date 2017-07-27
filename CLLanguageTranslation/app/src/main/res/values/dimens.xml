@@ -1,0 +1,6 @@
+<resources>
+
+    <dimen name="textSize1">16sp</dimen>
+    <dimen name="textSize2">14sp</dimen>
+
+</resources>

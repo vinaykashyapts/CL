@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">સી એલ ભાષા અનુવાદ</string>
+    <string name="helloWorld">હેલો વર્લ્ડ!</string>
+    <string name="changeLanguage">ભાષા બદલો</string>
+
+    <string name="quote1">"કલ્પનાની શક્તિ અમને અનંત બનાવે છે." »જ્હોન મૂર</string>
+    <string name="quote2">"અન્ય શીખવવાથી આપણે પોતાને શીખવીએ છીએ." »અનામિક</string>
+    <string name="quote3">"આશા એક જાગૃત સ્વપ્ન છે." »એરિસ્ટોટલ</string>
+    <string name="quote4">"એક અવરોધ ઘણી વાર એક પથ્થર છે." »પ્રેસ્કોટ બુશ</string>
+    <string name="quote5">"એક્શન તમામ સફળતા માટે પાયાના કી છે." »પાબ્લો પિકાસો</string>
+    <string name="quote6">"જો તમે તેને ડ્રીમ છો, તો તમે તે કરી શકો છો." »વોલ્ટ ડિઝની</string>
+    <string name="quote7">"ગઇકાલથી શીખો, આજે જીવી, કાલની આશા." »અનામિક</string>
+    <string name="quote8">"એક જગ ડ્રોપ દ્વારા ડ્રોપ ભરે." »બુદ્ધ</string>
+    <string name="quote9">"જો આપણે નથી, તો કોણ? જો હમણાં નહીં, ક્યારે? "» જ્હોન એફ. કેનેડી</string>
+    <string name="quote10">"હું કરી શકું છું, તેથી હું છું." »સિમોન વિલ</string>
+
+</resources>

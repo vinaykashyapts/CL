@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ਸੀ ਐਲ ਭਾਸ਼ਾ ਅਨੁਵਾਦ</string>
+    <string name="helloWorld">ਸਤਿ ਸ੍ਰੀ ਅਕਾਲ ਦੁਨਿਆ!</string>
+    <string name="changeLanguage">ਭਾਸ਼ਾ ਬਦਲੋ</string>
+
+    <string name="quote1">"ਕਲਪਨਾ ਦੀ ਸ਼ਕਤੀ ਸਾਨੂੰ ਅਨੰਤ ਬਣਾ ਦਿੰਦੀ ਹੈ." »ਯੂਹੰਨਾ ਮੂਰੀ</string>
+    <string name="quote2">"ਦੂਸਰਿਆਂ ਨੂੰ ਸਿਖਾਉਣ ਵਿਚ ਅਸੀਂ ਆਪਣੇ ਆਪ ਨੂੰ ਸਿਖਾਉਂਦੇ ਹਾਂ." » ਅਗਿਆਤ</string>
+    <string name="quote3">"ਹੋਪ ਇੱਕ ਜਾਗਦੇ ਸੁਪਨੇ ਹੈ." » ਅਰਸਤੂ</string>
+    <string name="quote4">"ਇੱਕ ਰੁਕਾਵਟ ਅਕਸਰ ਇੱਕ ਪੱਥਰਾਂ ਵਾਲਾ ਪੱਥਰ ਹੁੰਦਾ ਹੈ." » ਪ੍ਰੈਸਕੋਟ ਬੁਸ਼</string>
+    <string name="quote5">"ਕਾਰਵਾਈ ਸਭ ਸਫਲਤਾ ਦੀ ਬੁਨਿਆਦੀ ਕੁੰਜੀ ਹੈ." » ਪਾਬਲੋ ਪਿਕਸੋ</string>
+    <string name="quote6">"ਜੇ ਤੁਸੀਂ ਇਸ ਨੂੰ ਸੁਪਨੇ ਦੇਖਦੇ ਹੋ, ਤਾਂ ਤੁਸੀਂ ਇਹ ਕਰ ਸਕਦੇ ਹੋ." » ਵਾਲਟ ਡਿਜੀ</string>
+    <string name="quote7">"ਕੱਲ੍ਹ ਤੋਂ ਸਿੱਖੋ, ਅੱਜ ਦੇ ਲਈ ਜੀਓ, ਕੱਲ ਦੀ ਉਮੀਦ ਕਰੋ." » ਅਗਿਆਤ</string>
+    <string name="quote8">"ਇੱਕ ਜੱਗ ਸੁੱਟਿਆ ਜਾਂਦਾ ਹੈ." » ਬੁੱਧ</string>
+    <string name="quote9">"ਜੇ ਅਸੀਂ ਨਹੀਂ, ਤਾਂ ਕੌਣ? ਜੇ ਹੁਣ ਨਹੀਂ, ਤਾਂ? "» ਜੌਨ ਐੱਫ. ਕੈਨੇਡੀ</string>
+    <string name="quote10">"ਮੈਂ ਕਰ ਸਕਦਾ ਹਾਂ, ਇਸ ਲਈ ਮੈਂ ਹਾਂ." » ਸਿਮੋਨ ਵੇਲ</string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CL Language Translation</string>
+    <string name="helloWorld">Hello World!</string>
+    <string name="changeLanguage">Change language</string>
+
+    <string name="quote1">“The power of imagination makes us infinite.” » John Muir</string>
+    <string name="quote2">“In teaching others we teach ourselves.” » Anonymous</string>
+    <string name="quote3">“Hope is a waking dream.” » Aristotle</string>
+    <string name="quote4">“An obstacle is often a stepping stone.” » Prescott Bush</string>
+    <string name="quote5">“Action is the foundational key to all success.” » Pablo Picasso</string>
+    <string name="quote6">“If you dream it, you can do it.” » Walt Disney</string>
+    <string name="quote7">“Learn from yesterday, live for today, hope for tomorrow.” » Anonymous</string>
+    <string name="quote8">“A jug fills drop by drop.” » Buddha</string>
+    <string name="quote9">“If not us, who? If not now, when?” » John F. Kennedy</string>
+    <string name="quote10">“I can, therefore I am.” » Simone Weil</string>
+
+</resources>

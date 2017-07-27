@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">सी एल भाषा भाषांतर</string>
+    <string name="helloWorld">हॅलो वर्ल्ड!</string>
+    <string name="changeLanguage">भाषा बदला</string>
+
+    <string name="quote1">"कल्पकता शक्ती आम्हाला असीम करते." »जॉन Muir</string>
+    <string name="quote2">"इतरांना शिकवताना आपण स्वतःच शिकवतो." »अनामिक</string>
+    <string name="quote3">"आशा जागृत करणारा स्वप्न आहे." »अॅरिस्टोटल</string>
+    <string name="quote4">"अडथळा हा सहसा पाठीमागून असतो." »प्रेस्कॉट बुश</string>
+    <string name="quote5">"कृती म्हणजे सर्व यशासाठी मूलभूत कळ आहे." »पाब्लो पिकासो</string>
+    <string name="quote6">"आपण हे स्वप्न तर, आपण हे करू शकता." »वॉल्ट डिस्ने</string>
+    <string name="quote7">"काल पासून जाणून घ्या, आज जगणे, उद्या आशा." »अनामित</string>
+    <string name="quote8">"एक कटातील ड्रॉप थेंब भरते." »बुद्ध</string>
+    <string name="quote9">"आम्ही नाही तर, कोण? आता नाही तर, केव्हा? "» जॉन एफ. केनडी</string>
+    <string name="quote10">"मी शक्य आहे, म्हणून मी आहे." »सिमोन वेल</string>
+
+</resources>

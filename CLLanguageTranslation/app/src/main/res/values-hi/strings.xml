@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">सी एल भाषा अनुवाद</string>
+    <string name="helloWorld">नमस्ते दुनिया!</string>
+    <string name="changeLanguage">भाषा बदलो</string>
+
+    <string name="quote1">"कल्पना की शक्ति हमें अनंत बनाता है।" »जॉन मूर</string>
+    <string name="quote2">"दूसरों को पढ़ाने में हम खुद को सिखाते हैं।" »अनाम</string>
+    <string name="quote3">"आशा एक जागरूक सपना है।" »अरस्तू</string>
+    <string name="quote4">"एक बाधा अक्सर एक कदम पत्थर है।" प्रेस्कॉट बुश</string>
+    <string name="quote5">"कार्रवाई सभी सफलता की मूलभूत कुंजी है।" »पाब्लो पिकासो</string>
+    <string name="quote6">"यदि आप इसे सपना देखते हैं, तो आप ऐसा कर सकते हैं।" »वॉल्ट डिज़नी</string>
+    <string name="quote7">"कल से जानें, आज के लिए जीना, कल के लिए आशा है।" »अनाम</string>
+    <string name="quote8">"एक जगू ड्रॉप से ​​ड्रॉप भर जाता है।" »बुद्ध</string>
+    <string name="quote9">"यदि हम नहीं, कौन? यदि अब नहीं, तो कब? "» जॉन एफ कैनेडी</string>
+    <string name="quote10">"मैं कर सकता हूं, इसलिए मैं हूं।" »सिमोन वेइल</string>
+
+</resources>

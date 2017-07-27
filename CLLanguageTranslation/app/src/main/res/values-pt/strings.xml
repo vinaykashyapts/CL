@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CL Tradução de idiomas</string>
+    <string name="helloWorld">Olá Mundo!</string>
+    <string name="changeLanguage">Mudar idioma</string>
+
+    <string name="quote1">"O poder da imaginação nos torna infinitos." » John Muir</string>
+    <string name="quote2">"Ao ensinar a outros, nos ensinamos". » Anônimo</string>
+    <string name="quote3">"A esperança é um sonho acordado." » Aristóteles</string>
+    <string name="quote4">"Um obstáculo é muitas vezes um trampolim". » Prescott Bush</string>
+    <string name="quote5">"A ação é a chave fundamental para todo o sucesso". » Pablo Picasso</string>
+    <string name="quote6">"Se você sonhar, você pode fazê-lo." » Walt Disney</string>
+    <string name="quote7">"Aprenda com ontem, viva por hoje, espere por amanhã." » Anônimo</string>
+    <string name="quote8">"Um jarro é preenchido gota a gota." » Buda</string>
+    <string name="quote9">"Se não nós, quem? Se não agora, quando? " » John F. Kennedy</string>
+    <string name="quote10">"Posso, portanto, eu sou". » Simone Weil</string>
+</resources>
